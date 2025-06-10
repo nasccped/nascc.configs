@@ -12,3 +12,46 @@ nascc.configs
 Welcome to my personal configurations repository 😁
 
 Here you'll find all my personal **config repositories**
+
+## Summary
+
+- [B](#b)
+  - `bashrc.conf`
+- [G](#g)
+  - `git.conf`
+- [K](#k)
+  - `kickstart.nvim.conf`
+- [S](#s)
+  - `st.conf`
+  - `suckless.alpine.conf`
+- [T](#t)
+  - `tmux.conf`
+
+## Repositories
+
+### B
+
+- [`bashrc.conf`](https://github.com/nasccped/bashrc.conf), my
+  personal config for `.bashrc` file
+
+### G
+
+- [`git.conf`](https://github.com/nasccped/git.conf), my personal
+  configuration for git 🏷️
+
+### K
+
+- [`kickstart.nvim.conf`](https://github.com/nasccped/kickstart.nvim.conf)
+  my personal configurations for 🇳 🇻 🇮 🇲 kickstart
+
+### S
+
+- [`st.conf`](https://github.com/nasccped/st.conf), my personal
+  configurations for ST (Suckless Terminal) program 💻
+- [`suckless.alpine.conf`](https://github.com/nasccped/suckless.alpine.conf),
+  my personal Suckless bundle configs for Alpine Linux 🗻
+
+### T
+
+- [`tmux.conf`](https://github.com/nasccped/tmux.conf), my personal
+  configurations/install scripts for tmux app ⚙️

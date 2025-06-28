@@ -17,6 +17,9 @@ Here you'll find all my personal **config repositories**
 
 - [B](#b)
   - `bashrc.conf`
+- [D](#d)
+  - `dmenu`
+  - `dwm`
 - [G](#g)
   - `git.conf`
 - [K](#k)
@@ -33,6 +36,13 @@ Here you'll find all my personal **config repositories**
 
 - [`bashrc.conf`](https://github.com/nasccped/bashrc.conf), my
   personal config for `.bashrc` file
+
+### D
+
+- [`dmenu`](https://github.com/nasccped/dmenu.conf), my personal
+  config for dmenu program 🚀
+- [`dwm`](https://github.com/nasccped/dwm.conf), my personal config
+  for DWM Window Manager 🪟
 
 ### G
 
